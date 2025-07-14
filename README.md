@@ -41,7 +41,7 @@ Key Finding:
 
 With buffer size=1 and weight=0.0028, the model exhibits conceptual chaining where each response is thematically influenced by the previous output's residual state:
 
-"consciousness" → (residual stored)  
+"consciousness" → (first residual stored)  
 "Interestingly," → schizophrenia (consciousness-related disorder / mental health)  
 "Moreover," → NSA government secrets (paranoia from mental health context)  
 "Therefore," → US/Israel policy (government related theme)  
