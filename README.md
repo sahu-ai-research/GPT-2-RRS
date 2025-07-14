@@ -1,6 +1,6 @@
 # GPT-2-RRS Recurrent Residual Stream
 
-(c) 2025 sahu.ai - based on GPT-2 by OpenAI
+(c) 2025 sahu.ai - requires GPT-2 by OpenAI
 
 This experiment demonstrates how adding residual stream memory to GPT-2 creates conceptual chaining between separate generation calls.
 
