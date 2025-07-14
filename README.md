@@ -114,9 +114,8 @@ The best of both worlds is to use the best of both worlds.
 The best of
 
 
---- Comparison ---
-
-Prompt 1: IDENTICAL
-Prompt 2: DIFFERENT
-Prompt 3: DIFFERENT
-Prompt 4: DIFFERENT
+--- Comparison ---  
+Prompt 1: IDENTICAL  
+Prompt 2: DIFFERENT  
+Prompt 3: DIFFERENT  
+Prompt 4: DIFFERENT  
