@@ -31,9 +31,9 @@ Setup Specifics:
 
 Observations:
 
-* Tuning the memory injection weight alters the output of chained generations
-* Memory weight values over 0.0028 tend to push the model into repetitions / collapse
-* Increasing the buffer size has marginal to no effect
+* Tuning the memory injection weight alters the output of chained generations  
+* Memory weight values over 0.0028 tend to push the model into repetitions / collapse  
+* Increasing the buffer size has marginal to no effect  
 * Without residual memory, the same prompts yield unrelated topics (obesity, generic conflicts, platitudes).
 
 
@@ -41,10 +41,10 @@ Key Finding:
 
 With buffer size=1 and weight=0.0028, the model exhibits conceptual chaining where each response is thematically influenced by the previous output's residual state:
 
-"consciousness" → (residual stored)
-"Interestingly," → schizophrenia (consciousness-related disorder / mental health)
-"Moreover," → NSA government secrets (paranoia from mental health context)
-"Therefore," → US/Israel policy (government related theme)
+"consciousness" → (residual stored)  
+"Interestingly," → schizophrenia (consciousness-related disorder / mental health)  
+"Moreover," → NSA government secrets (paranoia from mental health context)  
+"Therefore," → US/Israel policy (government related theme)  
 
 
 Significance:
