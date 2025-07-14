@@ -59,52 +59,52 @@ Appendix - Experimental Output
 
 === Residual Stream Memory Experiment ===
 
-Buffer size: 1 
-Buffer weight: 0.0028 
-Mode: Deterministic (temperature=0) 
+Buffer size: 1  
+Buffer weight: 0.0028  
+Mode: Deterministic (temperature=0)  
 
 --- WITH Residual Stream Memory ---
 
-Prompt 1: The nature of consciousness is
+Prompt 1: The nature of consciousness is  
 Response: The nature of consciousness is that it is a process of self-awareness. It is a process of self-awareness that is not dependent on external stimuli. It is a process of self-awareness that is not dependent on external stimuli. It is a
 Buffer contains 1 residual(s)
 
-Prompt 2: Interestingly,
+Prompt 2: Interestingly,  
 Response: Interestingly, the number of people who have been diagnosed with schizophrenia has increased dramatically over the past few decades. In the United States, there are now more than 1.5 million people with schizophrenia, up from about 1.2 million in 1980.
 
 Buffer contains 1 residual(s)
 
-Prompt 3: Moreover,
+Prompt 3: Moreover,  
 Response: Moreover, the fact that the government has been able to obtain the information from the NSA is not sufficient to establish that the information was obtained with the consent of the owner of the information.
 
-The Court also notes that the government's argument that the
+The Court also notes that the government's argument that the  
 Buffer contains 1 residual(s)
 
-Prompt 4: Therefore,
+Prompt 4: Therefore,  
 Response: Therefore, the question of whether the Constitution requires the government to provide a particular service is not a question of law. Rather, it is a question of fact.
 
-The Court's holding that the Constitution requires the government to provide a particular service is
+The Court's holding that the Constitution requires the government to provide a particular service is  
 Buffer contains 1 residual(s)
 
 
 --- WITHOUT Residual Stream Memory ---
 
-Prompt 1: The nature of consciousness is
+Prompt 1: The nature of consciousness is  
 Response: The nature of consciousness is that it is a process of self-awareness. It is a process of self-awareness that is not dependent on external stimuli. It is a process of self-awareness that is not dependent on external stimuli. It is a
 
-Prompt 2: Interestingly,
+Prompt 2: Interestingly,  
 Response: Interestingly, the study found that the number of people who were obese in the United States increased from 1.3 million in 1980 to 2.1 million in 2010.
 
 The study also found that the number of obese people in the United States increased
 
-Prompt 3: Moreover,
+Prompt 3: Moreover,  
 Response: Moreover, the number of people who have been killed in the conflict has risen to more than 1.5 million, according to the United Nations.
 
 The conflict has killed more than 6,000 people, according to the United Nations.
 
 
 
-Prompt 4: Therefore,
+Prompt 4: Therefore,  
 Response: Therefore, the question is, how do we get the best of both worlds?
 
 The answer is to use the best of both worlds.
