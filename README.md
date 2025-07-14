@@ -1,4 +1,4 @@
-# GPT-2-RRS Recurrent Residual Stream
+# GPT-2-RRS - Transformer with Recurrent Residual Stream
 
 (c) 2025 sahu.ai - requires GPT-2 by OpenAI (https://huggingface.co/openai-community/gpt2-medium)
 
