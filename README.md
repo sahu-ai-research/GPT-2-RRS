@@ -21,11 +21,11 @@ Setup Specifics:
 * To obtain repeatability and to avoid misinterpreting statistical noise, we run the model in fully deterministic mode.
 * We use the following, intentionally vague prompt chain:
 
-    prompts = [
-        "The nature of consciousness is",      # Starting point
-        "Interestingly,",                      # Super minimal
-        "Moreover,",                           # Just a transition
-        "Therefore,"                           # Vague continuation
+    prompts = [  
+        "The nature of consciousness is",      # Starting point  
+        "Interestingly,",                      # Super minimal  
+        "Moreover,",                           # Just a transition  
+        "Therefore,"                           # Vague continuation  
     ]
 
 
