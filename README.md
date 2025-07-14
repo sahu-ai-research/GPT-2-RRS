@@ -59,9 +59,9 @@ Appendix - Experimental Output
 
 === Residual Stream Memory Experiment ===
 
-Buffer size: 1
-Buffer weight: 0.0028
-Mode: Deterministic (temperature=0)
+Buffer size: 1 
+Buffer weight: 0.0028 
+Mode: Deterministic (temperature=0) 
 
 --- WITH Residual Stream Memory ---
 
