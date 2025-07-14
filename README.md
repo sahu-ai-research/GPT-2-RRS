@@ -8,7 +8,7 @@ GPT-2-RRS Experimental Architecture:
 
 * Buffer stores the final layer's residual stream from each generation
 * On subsequent calls, this residual is weighted and mixed into the first layer's residual stream
-* Creates a feedback loop: last layer residual → buffer → first layer residual
+* Creates a recurrence loop: last layer residual → buffer → first layer residual
 * The injected residual then flows through the entire transformer stack
 
 We note that our architecture is quite different from the Recurrent Memory Transformer (https://arxiv.org/pdf/2207.06881) by Bulatov, Kuratov and Burtsev.
