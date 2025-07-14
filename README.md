@@ -32,6 +32,8 @@ Setup Specifics:
         "Therefore,"                           # Vague continuation  
     ]
 
+* A separate generate call is executed for each prompt
+
 
 Observations:
 
