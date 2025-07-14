@@ -1,9 +1,9 @@
 # GPT-2-RRS - Transformer with Recurrent Residual Stream
 
-(c) 2025 sahu.ai
+(c) 2025 sahu.ai  
 Requires GPT-2 by OpenAI (https://huggingface.co/openai-community/gpt2-medium)  
 License: GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)  
-Contact: research |at| sahu.ai
+Contact: research |at| sahu.ai 
 
 This experiment demonstrates how adding residual stream memory to GPT-2 creates conceptual chaining between separate generation calls.
 
