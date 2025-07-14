@@ -72,7 +72,7 @@ Mode: Deterministic (temperature=0)
 --- WITH Residual Stream Memory ---
 
 Prompt 1: The nature of consciousness is  
-Response: The nature of consciousness is that it is a process of self-awareness. It is a process of self-awareness that is not dependent on external stimuli. It is a process of self-awareness that is not dependent on external stimuli. It is a
+Response: The nature of consciousness is that it is a process of self-awareness. It is a process of self-awareness that is not dependent on external stimuli. It is a process of self-awareness that is not dependent on external stimuli. It is a  
 Buffer contains 1 residual(s)
 
 Prompt 2: Interestingly,  
