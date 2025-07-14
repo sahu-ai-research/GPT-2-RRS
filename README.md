@@ -4,7 +4,7 @@
 
 This experiment demonstrates how adding residual stream memory to GPT-2 creates conceptual chaining between separate generation calls.
 
-GPT-2-RSS Experimental Architecture:
+GPT-2-RRS Experimental Architecture:
 
 * Buffer stores the final layer's residual stream from each generation
 * On subsequent calls, this residual is weighted and mixed into the first layer's residual stream
